@@ -1,4 +1,4 @@
 pandas
 matplotlib
-fbchat
+fbchat-asyncio
 ipywidgets
